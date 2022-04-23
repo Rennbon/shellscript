@@ -1,7 +1,7 @@
 ### 下载zookeeper安装包
 ###### 新建目录并切换
     mkdir -p /root/env/zookeeper
-cd /root/env/zookeeper
+    cd /root/env/zookeeper
 ###### 下载kafka安装包
     wget http://mirror-hk.koddos.net/apache/zookeeper/zookeeper-3.5.5/apache-zookeeper-3.5.5.tar.gz -O zookeeper.tar.gz
 ###### 解压安装包
