@@ -5,7 +5,7 @@
 - [eth私链部署](https://github.com/Rennbon/shellscript/blob/main/blockchain/eth.md) 
 ## linux
 1. kill.sh  查杀指定cmd的脚本，包含其子线程
-2. retry.sh 启动命令，无线重试，直到成功
+2. retry.sh 启动命令，无限重试，直到成功
 3. waitcmd.sh 监听命令执行成功
 4. waitport.sh 监听端口启动成功
 
