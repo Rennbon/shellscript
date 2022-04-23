@@ -1,6 +1,5 @@
 # shellscript  常用配置，脚本及一些基础原理
-- 因为公司对于一些云笔记敏感禁用，使用不方便，维护部分个人笔记摘录，方便日常办公查看使用
-
+- 笔记整理罗列，方便查看
 ## git
 - [github配置ssh代理http](https://github.com/Rennbon/shellscript/blob/main/git/sshgithub.md)
 
