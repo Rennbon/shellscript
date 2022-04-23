@@ -2,7 +2,7 @@
 - 因为公司对于一些云笔记敏感禁用，使用不方便，维护部分个人笔记摘录，方便日常办公查看使用
 
 ## git
-- [github配置ssh代理http](https://github.com/Rennbon/shellscript/blob/main/blockchain/sshgithub.md)
+- [github配置ssh代理http](https://github.com/Rennbon/shellscript/blob/main/git/sshgithub.md)
 
 ## blockchain
 - [eth私链部署](https://github.com/Rennbon/shellscript/blob/main/blockchain/eth.md) 
