@@ -41,7 +41,7 @@
 - [linux新建用户配置ssh登陆](https://github.com/Rennbon/shellscript/blob/main/remote/sshlogin.md)
 
 
-## protocal
+## protocol
 > 协议相关简单介绍
 
 - [grpc](https://github.com/Rennbon/shellscript/blob/main/protocal/grpc.md)
