@@ -1,7 +1,5 @@
 # shellscript  常用配置，脚本及一些基础原理
 - 笔记整理罗列，方便查看
-## git
-- [github配置ssh代理http](https://github.com/Rennbon/shellscript/blob/main/git/sshgithub.md)
 
 ## blockchain
 - [eth私链部署](https://github.com/Rennbon/shellscript/blob/main/blockchain/eth.md) 
@@ -24,6 +22,10 @@
 - [postgresql](https://github.com/Rennbon/shellscript/blob/main/docercompose/postgresql.md)
 - [redis](https://github.com/Rennbon/shellscript/blob/main/docercompose/redis.md)
 
+
+## git
+- [github配置ssh代理http](https://github.com/Rennbon/shellscript/blob/main/git/sshgithub.md)
+
 ## middleware安装部署
 - [codis简单安装](https://github.com/Rennbon/shellscript/blob/main/middleware/codis.md)
 - [codis集群安装](https://github.com/Rennbon/shellscript/blob/main/middleware/codis_cluster.md)
@@ -40,6 +42,8 @@
 - [mac linux上传下载快捷配置](https://github.com/Rennbon/shellscript/blob/main/remote/rzsz.md)
 - [linux新建用户配置ssh登陆](https://github.com/Rennbon/shellscript/blob/main/remote/sshlogin.md)
 
+## nginx
+- [nginx配置解析及教程目录](https://github.com/Rennbon/shellscript/blob/main/nginx/nginxconf.md)
 
 ## protocol
 > 协议相关简单介绍
