@@ -44,10 +44,10 @@
 ## protocol
 > 协议相关简单介绍
 
-- [grpc](https://github.com/Rennbon/shellscript/blob/main/protocal/grpc.md)
-- [http](https://github.com/Rennbon/shellscript/blob/main/protocal/http.md)
-- [tcp](https://github.com/Rennbon/shellscript/blob/main/protocal/tcp.md)
-- [tls](https://github.com/Rennbon/shellscript/blob/main/protocal/tls.md)
-- [udp](https://github.com/Rennbon/shellscript/blob/main/protocal/udp.md)
-- [websocket](https://github.com/Rennbon/shellscript/blob/main/protocal/websocket.md)
+- [grpc](https://github.com/Rennbon/shellscript/blob/main/protocol/grpc.md)
+- [http](https://github.com/Rennbon/shellscript/blob/main/protocol/http.md)
+- [tcp](https://github.com/Rennbon/shellscript/blob/main/protocol/tcp.md)
+- [tls](https://github.com/Rennbon/shellscript/blob/main/protocol/tls.md)
+- [udp](https://github.com/Rennbon/shellscript/blob/main/protocol/udp.md)
+- [websocket](https://github.com/Rennbon/shellscript/blob/main/protocol/websocket.md)
 
